@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\bin\Debug\net6.0\xmpl2_hellouser.exe
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\bin\Debug\net6.0\xmpl2_hellouser.deps.json
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\bin\Debug\net6.0\xmpl2_hellouser.runtimeconfig.json
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\bin\Debug\net6.0\xmpl2_hellouser.dll
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\bin\Debug\net6.0\xmpl2_hellouser.pdb
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\xmpl2_hellouser.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\xmpl2_hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\xmpl2_hellouser.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\xmpl2_hellouser.AssemblyInfo.cs
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\xmpl2_hellouser.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\xmpl2_hellouser.dll
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\refint\xmpl2_hellouser.dll
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\xmpl2_hellouser.pdb
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\xmpl2_hellouser.genruntimeconfig.cache
+C:\Users\Alex\Desktop\lesson\xmpl2_hellouser\obj\Debug\net6.0\ref\xmpl2_hellouser.dll
